@@ -2,6 +2,13 @@
 
 # Deep Agents Changelog
 
+## [0.7.25](https://github.com/langchain-ai/deepagents/compare/deepagents==0.7.24...deepagents==0.7.25) (2026-10-12)
+
+
+### Bug Fixes
+
+* **sdk:** check filesystem permissions against the symlink-resolved path ([#6818](https://github.com/langchain-ai/deepagents/issues/6818)) ([7a69743](https://github.com/langchain-ai/deepagents/commit/7a6974309ac78f0b2ea636afc70bd8a0268bed7f))
+
 ## [0.7.24](https://github.com/langchain-ai/deepagents/compare/deepagents==0.7.23...deepagents==0.7.24) (2026-10-12)
 
 ### Features
